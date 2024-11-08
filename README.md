@@ -172,7 +172,8 @@ sudo ip link delete mvlanX
 ## License
 This project is licensed under the MIT License.
 
-## Disclaimer: Use this script responsibly and ensure compliance with your organization's policies and any applicable laws. Unauthorized network testing or resource exhaustion can lead to service disruptions and may be prohibited.
+## Disclaimer:
+Use this script responsibly and ensure compliance with your organization's policies and any applicable laws. Unauthorized network testing or resource exhaustion can lead to service disruptions and may be prohibited.
 
 ## Contributing
 
