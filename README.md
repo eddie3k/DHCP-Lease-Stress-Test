@@ -37,7 +37,7 @@ A Bash script to test the DHCP server capacity by simulating multiple DHCP lease
 Clone the Repository:
 
 ```bash
-   git clone https://github.com/yourusername/dhcp-lease-test.git
+   git clone https://github.com/eddie3k/DHCP-Lease-Stress-Test.git
 ```
 Navigate to the Directory:
 
