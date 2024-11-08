@@ -146,6 +146,10 @@ The script must be run with sudo because it modifies network interfaces.
 Ensure you have the necessary permissions and authorization to perform network testing in your environment.
 Network Impact:
 
+**WSL2**
+
+The script doesn't seem to work as intended in WSL2 as of now. Use a baremetal install of Linux instead or try with a full VM (Virtualbox, etc.)
+
 **Caution!**
 Requesting a large number of DHCP leases can impact network resources.
 Perform tests during maintenance windows or in isolated environments if possible.
