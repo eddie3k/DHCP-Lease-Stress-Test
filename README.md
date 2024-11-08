@@ -7,7 +7,6 @@ A Bash script to test the DHCP server capacity by simulating multiple DHCP lease
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Report Output](#report-output)
 - [Example](#example)
 - [Notes and Considerations](#notes-and-considerations)
