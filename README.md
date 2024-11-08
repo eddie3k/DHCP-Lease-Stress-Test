@@ -137,7 +137,7 @@ Number of failed DHCP leases: 0
 
 End of DHCP lease test report.
 ```
-##Notes and Considerations
+## Notes and Considerations
 
 **Permissions:**
 
@@ -158,7 +158,7 @@ DHCP Server Limitations:
 The number of available IP addresses is limited by the DHCP server's configuration and subnet size.
 If you receive "No IP address assigned" messages, the DHCP server may have reached its capacity.
 
-##Cleanup Verification:
+## Cleanup Verification:
 
 After the script completes, verify that no additional interfaces remain:
 ```bash
@@ -168,16 +168,16 @@ If any mvlan interfaces remain, delete them manually:
 ```bash
 sudo ip link delete mvlanX
 ```
-##License
+## License
 This project is licensed under the MIT License.
 
 ##Disclaimer: Use this script responsibly and ensure compliance with your organization's policies and any applicable laws. Unauthorized network testing or resource exhaustion can lead to service disruptions and may be prohibited.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-##Contact
+## Contact
 
 For questions or suggestions, please use contact eduardo.ramos.garcia@outlook.com
 
