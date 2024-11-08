@@ -84,7 +84,7 @@ Base interface used
 List of obtained IP addresses
 Summary of successful and failed DHCP leases
 
-Example
+## Example
 
 Running the Script
 ```bash
