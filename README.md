@@ -41,7 +41,7 @@ Clone the Repository:
 Navigate to the Directory:
 
 ```bash
-cd dhcp-lease-test
+cd DHCP-Lease-Stress-Test
 ```
 Make the Script Executable:
 
