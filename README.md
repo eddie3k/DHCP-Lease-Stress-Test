@@ -124,11 +124,11 @@ Base interface: enp0s25
 
 DHCP lease testing completed at Tue Oct 31 14:46:20 UTC 2024
 Obtained IP addresses:
-mvlan1: 192.168.50.216
-mvlan2: 192.168.50.207
-mvlan3: 192.168.50.190
-mvlan4: 192.168.50.151
-mvlan5: 192.168.50.174
+mvlan1: 192.168.0.216
+mvlan2: 192.168.0.207
+mvlan3: 192.168.0.190
+mvlan4: 192.168.0.151
+mvlan5: 192.168.0.174
 
 Summary:
 Number of interfaces created: 5
